@@ -1,5 +1,3 @@
-# README
-
 Soy responsable de la gestión informática en mi empresa y he desarrollado programas de gestión de lo más variado, adaptados a las necesidades reales del negocio. Programo desde los 14 años y cuento con una sólida experiencia en diferentes lenguajes y entornos:
 
 - **Lenguajes:** C, C++, JavaScript, Electron, C#, php
