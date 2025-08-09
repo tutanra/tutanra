@@ -7,10 +7,6 @@ I am responsible for IT management at my company, where I have developed a wide 
 My work ranges from designing and implementing customized solutions to process optimization, task automation, and advanced technical support. I am passionate about technology and am always looking to learn and improve, applying best practices and developing robust, efficient, and secure systems.
 
 If you are interested in learning more about my projects, collaborating, or need IT management solutions, please feel free to contact me.
-![](https://raw.githubusercontent.com/tutanra/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/tutanra/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/tutanra/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/tutanra/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <details>
   <summary><i>le footer</i></summary>
