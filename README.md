@@ -1,9 +1,9 @@
-Soy responsable de la gestión informática en mi empresa y he desarrollado programas de gestión de lo más variado, adaptados a las necesidades reales del negocio. Programo desde los 14 años y cuento con una sólida experiencia en diferentes lenguajes y entornos:
+I am responsible for IT management at my company, where I have developed a wide variety of management programs tailored to the real needs of the business. I have been programming since the age of 14 and have a solid background in various languages and environments:
 
-- **Lenguajes:** C, C++, JavaScript, Electron, C#, php
-- **Sistemas operativos:** Linux
-- **Bases de datos:** SQL
+- **Languages:** C, C++, JavaScript, Electron, C#, php
+- **Operating Systems**: Linux
+- **Databases**: mySQL
 
-Mi trabajo abarca desde el diseño y la implementación de soluciones personalizadas hasta la optimización de procesos, automatización de tareas y el soporte técnico avanzado. Me apasiona la tecnología y siempre busco aprender y mejorar, aplicando buenas prácticas y desarrollando sistemas robustos, eficientes y seguros.
+My work ranges from designing and implementing customized solutions to process optimization, task automation, and advanced technical support. I am passionate about technology and am always looking to learn and improve, applying best practices and developing robust, efficient, and secure systems.
 
-Si tienes interés en conocer más sobre los proyectos realizados, colaborar o necesitas soluciones de gestión informática, puedes ponerte en contacto conmigo.
+If you are interested in learning more about my projects, collaborating, or need IT management solutions, please feel free to contact me.
